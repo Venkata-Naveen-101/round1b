@@ -1,0 +1,118 @@
+{
+  "Drug Discovery Scientist": {
+    "keywords": ["molecular", "drug-like", "binding", "compound", "screening", "toxicity", "pharmacokinetics", "property prediction"],
+    "job": "Identify promising compounds and evaluate their pharmacokinetic and toxicity profiles for drug development."
+  },
+  "ML Researcher": {
+    "keywords": ["benchmark", "accuracy", "model", "dataset", "evaluation", "loss function", "architecture", "training"],
+    "job": "Evaluate machine learning models based on benchmarks, architecture, and training performance."
+  },
+  "Bioinformatician": {
+    "keywords": ["protein", "gene", "interaction", "bioactivity", "biological", "graph", "network", "genome", "pathway"],
+    "job": "Analyze biological networks and gene-protein interactions for bioactivity insights."
+  },
+  "Product Manager": {
+    "keywords": ["impact", "user", "real-world", "application", "workflow", "scalability", "adoption", "timeline"],
+    "job": "Assess product impact, user workflows, and scalability for real-world applications."
+  },
+  "Business Analyst": {
+    "keywords": ["cost", "efficiency", "return", "ROI", "market", "strategy", "value", "business model", "investment"],
+    "job": "Analyze business models, market strategies, and ROI for operational efficiency."
+  },
+  "Data Engineer": {
+    "keywords": ["pipeline", "ETL", "data quality", "scalability", "infrastructure", "latency", "storage", "processing"],
+    "job": "Design and evaluate data pipelines for scalable and efficient data processing."
+  },
+  "Healthcare Professional": {
+    "keywords": ["clinical", "diagnosis", "symptom", "treatment", "disease", "patient", "healthcare", "hospital", "therapy"],
+    "job": "Review clinical data and treatment protocols for patient care and disease management."
+  },
+  "Investor": {
+    "keywords": ["valuation", "profit", "growth", "revenue", "monetization", "market size", "competitive advantage", "ROI"],
+    "job": "Evaluate financial metrics and market potential for investment decisions."
+  },
+  "UX Designer": {
+    "keywords": ["interface", "experience", "interaction", "usability", "design", "layout", "workflow", "accessibility"],
+    "job": "Analyze user interface and experience design for usability and accessibility."
+  },
+  "Cybersecurity Analyst": {
+    "keywords": ["vulnerability", "security", "threat", "breach", "encryption", "authentication", "compliance", "firewall"],
+    "job": "Identify and assess security threats, vulnerabilities, and compliance measures."
+  },
+  "Policy Maker": {
+    "keywords": ["regulation", "law", "compliance", "public", "societal", "policy", "impact", "ethics", "governance"],
+    "job": "Review societal and legal documents to inform policy and governance decisions."
+  },
+  "Academic Researcher": {
+    "keywords": ["literature", "hypothesis", "experiment", "citation", "methodology", "theory", "framework", "peer-reviewed"],
+    "job": "Conduct literature reviews and analyze experimental methodologies for academic research."
+  },
+  "Cloud Architect": {
+    "keywords": ["cloud", "infrastructure", "deployment", "virtualization", "scalability", "SaaS", "containers", "DevOps"],
+    "job": "Design and evaluate cloud infrastructure and deployment strategies."
+  },
+  "Software Developer": {
+    "keywords": ["code", "framework", "library", "performance", "integration", "deployment", "repository", "debug"],
+    "job": "Analyze software architecture and code performance for development optimization."
+  },
+  "Environmentalist": {
+    "keywords": ["sustainability", "ecology", "emissions", "green", "carbon", "climate", "biodiversity", "conservation"],
+    "job": "Evaluate environmental impact and promote sustainability and conservation efforts."
+  },
+  "PhD Researcher in Computational Biology": {
+    "keywords": ["graph neural networks", "drug discovery", "methodology", "dataset", "benchmark"],
+    "job": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks."
+  },
+  "Investment Analyst": {
+    "keywords": ["revenue", "R&D", "market share", "strategy", "investment"],
+    "job": "Analyze revenue trends, R&D investments, and market positioning strategies."
+  },
+  "Undergraduate Chemistry Student": {
+    "keywords": ["reaction kinetics", "rate law", "activation energy", "mechanism", "catalyst"],
+    "job": "Identify key concepts and mechanisms for exam preparation on reaction kinetics."
+  },
+  "AI Ethics Researcher": {
+    "keywords": ["bias", "fairness", "transparency", "accountability", "ethics", "privacy", "governance", "responsibility"],
+    "job": "Evaluate ethical implications of AI systems including fairness, transparency, and accountability."
+  },
+  "Legal Tech Consultant": {
+    "keywords": ["contract", "compliance", "regulation", "automation", "legal document", "AI", "risk", "e-discovery"],
+    "job": "Assess legal document automation and compliance tools for risk mitigation and efficiency."
+  },
+  "Robotics Engineer": {
+    "keywords": ["sensor", "actuator", "control", "robot", "navigation", "autonomy", "hardware", "simulation"],
+    "job": "Analyze robotic systems and control mechanisms for autonomous navigation and hardware integration."
+  },
+  "Educational Content Designer": {
+    "keywords": ["curriculum", "learning outcome", "pedagogy", "assessment", "instructional design", "engagement", "module"],
+    "job": "Design and evaluate educational modules for effective learning outcomes and student engagement."
+  },
+  "Sustainability Analyst": {
+    "keywords": ["carbon footprint", "renewable", "energy", "impact", "sustainability", "green tech", "climate", "resource"],
+    "job": "Analyze environmental data and sustainability metrics to guide green technology adoption."
+  },
+  "Financial Analyst": {
+    "keywords": ["balance sheet", "cash flow", "forecast", "valuation", "equity", "debt", "liquidity", "financial ratio"],
+    "job": "Evaluate financial statements and forecast performance for investment and budgeting decisions."
+  },
+  "Computational Linguist": {
+    "keywords": ["syntax", "semantics", "morphology", "corpus", "language model", "tokenization", "parsing", "phonetics"],
+    "job": "Analyze linguistic structures and develop models for natural language understanding."
+  },
+  "Hardware Engineer": {
+    "keywords": ["circuit", "PCB", "microcontroller", "signal", "voltage", "firmware", "sensor", "debugging"],
+    "job": "Design and test electronic circuits and embedded systems for hardware development."
+  },
+  "Social Scientist": {
+    "keywords": ["survey", "behavior", "demographics", "qualitative", "quantitative", "culture", "policy", "society"],
+    "job": "Conduct social research using qualitative and quantitative methods to understand human behavior."
+  },
+  "Digital Marketing Strategist": {
+    "keywords": ["SEO", "engagement", "conversion", "campaign", "analytics", "content", "traffic", "branding"],
+    "job": "Develop and evaluate marketing campaigns to optimize digital engagement and brand visibility."
+  },
+  "Quantum Computing Researcher": {
+    "keywords": ["qubit", "entanglement", "superposition", "quantum gate", "decoherence", "algorithm", "noise", "simulation"],
+    "job": "Research quantum algorithms and system noise to advance quantum computing methodologies."
+  }
+}
