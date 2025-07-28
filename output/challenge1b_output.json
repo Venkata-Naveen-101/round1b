@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "input_documents": [
+            "1.pdf",
+            "2.pdf",
+            "3.pdf"
+        ],
+        "persona": "Bioinformatician",
+        "job_to_be_done": "Analyze biological networks and gene-protein interactions for bioactivity insights.",
+        "processing_timestamp": "2025-07-28T11:11:33.869416"
+    },
+    "extracted_sections": [
+        {
+            "document": "3.pdf",
+            "page_number": 1,
+            "section_title": "Evaluating GNNs for Bioinformatics Applications",
+            "importance_rank": 1
+        },
+        {
+            "document": "1.pdf",
+            "page_number": 1,
+            "section_title": "Discovery",
+            "importance_rank": 2
+        },
+        {
+            "document": "1.pdf",
+            "page_number": 4,
+            "section_title": "Performance",
+            "importance_rank": 3
+        },
+        {
+            "document": "2.pdf",
+            "page_number": 1,
+            "section_title": "Recent GNN Architectures for Drug Molecule Prediction",
+            "importance_rank": 4
+        },
+        {
+            "document": "3.pdf",
+            "page_number": 2,
+            "section_title": "Methodologies",
+            "importance_rank": 5
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "3.pdf",
+            "page_number": 1,
+            "refined_text": "Graph Neural Networks are being integrated into bioinformatics pipelines for tasks like drug-target interaction prediction and protein folding."
+        },
+        {
+            "document": "1.pdf",
+            "page_number": 1,
+            "refined_text": "Graph Neural Networks (GNNs) have revolutionized the field of drug discovery. Traditional drug design relied heavily on feature engineering and domain-specific knowledge. However, GNNs allow for end-to-end learning on molecular graphs."
+        },
+        {
+            "document": "1.pdf",
+            "page_number": 4,
+            "refined_text": ":   GNNs outperform classical models in virtual screening tasks and molecular property prediction. However, challenges remain in scalability and interpretability."
+        },
+        {
+            "document": "2.pdf",
+            "page_number": 1,
+            "refined_text": "Recent architectures like DimeNet, SchNet, and Graphormer have pushed the boundaries of GNNs for molecular learning."
+        },
+        {
+            "document": "3.pdf",
+            "page_number": 2,
+            "refined_text": ":  Hierarchical GNNs, multi-view GNNs, and hybrid models combining convolutional and graph layers are under exploration."
+        }
+    ]
+}
